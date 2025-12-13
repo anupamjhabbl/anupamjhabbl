@@ -43,9 +43,10 @@
 ![Espresso](https://img.shields.io/badge/Espresso-%233DDC84.svg?style=for-the-badge)
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-%2300599C.svg?style=for-the-badge)
 ![LLD](https://img.shields.io/badge/Low%20Level%20Design-%236C3483.svg?style=for-the-badge)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anupamjhabbl&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anupamjhabbl&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anupamjhabbl&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
