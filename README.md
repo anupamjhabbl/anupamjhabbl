@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on: Travel Planner (Your travel Diary)
+- 🔭 I’m currently working on: Travel Planner (Your travel Companion)
 - 🌱 I’m currently learning: Kotlin & Compose Multiplatform, Spring Boot
 - 📫 How to reach me: anupamimpbbl@gmail.com
 - 😄 Pronouns: He/him
